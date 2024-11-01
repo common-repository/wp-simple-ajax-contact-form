@@ -1,0 +1,99 @@
+#wp-simple-ajax-contact-form{
+width: 300px;
+
+}
+#wp-simple-ajax-contact-form #myform table{
+	text-align: center !important;
+	border: none !important;	
+}
+#wp-simple-ajax-contact-form #myform table tr, #wp-simple-ajax-contact-form #myform table td, #wp-simple-ajax-contact-form #myform table tbody, #wp-simple-ajax-contact-form #myform table thead{
+	border: 0 !important;	
+}
+#wp-simple-ajax-contact-form #myform table td:first-child{
+	text-align: center !important;	
+}
+#wp-simple-ajax-contact-form #myform table td.submit{
+	text-align:center !important;	
+}
+#wp-simple-ajax-contact-form #myform input, #wp-simple-ajax-contact-form #myform textarea{
+	border-radius: 5px !important;
+	border: 1px solid #ddd !important;
+	padding: 6px 0 6px 2px !important;
+	font-size: 13px !important;
+}
+#wp-simple-ajax-contact-form #myform table #wp-simple-ajax-contact-form-name, #wp-simple-ajax-contact-form #myform table #wp-simple-ajax-contact-form-email, #wp-simple-ajax-contact-form #myform table #wp-simple-ajax-contact-form-mgs{
+	width: 100% !important;	
+	text-align: center;
+	font-family: tahoma;
+
+}
+#wp-simple-ajax-contact-form #myform table #wp-simple-ajax-contact-form-mgs{
+	height: 200px !important;	
+	font-family: tahoma;
+
+}
+#wp-simple-ajax-contact-form #myform table #name_label, #wp-simple-ajax-contact-form #myform table #email_label, #wp-simple-ajax-contact-form #myform table #mgs_label{
+	font-weight:700 !important;
+	font-size: 12px !important;
+    font-family: tahoma;
+}
+
+#wp-simple-ajax-contact-form #myform table #wp-simple-ajax-contact-form-submit {
+  display: inline-block;
+  background-color: #E6E6E6 !important;
+  background-image: -moz-linear-gradient(center top , #F4F4F4, #E6E6E6);
+  background-repeat: repeat-x;
+  padding: 2px 14px;
+  border: 1px solid #D2D2D2;
+  border-radius: 3px;
+  box-shadow: 0 1px 2px rgba(64, 64, 64, 0.1);
+  cursor: pointer;
+  width: 100px;
+  font-size: 12px !important;
+  font-family: tahoma;
+  font-weight: bold;
+  margin-top: 7px;
+}
+#wp-simple-ajax-contact-form .wp-simple-ajax-contact-form-name-valid, #wp-simple-ajax-contact-form .wp-simple-ajax-contact-form-email-empty, #wp-simple-ajax-contact-form .wp-simple-ajax-contact-form-mgs-valid{
+	color:#f00 !important;
+	font-size: 12px !important;	
+}
+
+#wp-simple-ajax-contact-form .wp-simple-ajax-contact-form-email-valid{
+	
+}
+#wp-simple-ajax-contact-form #myform .sending {
+  float: left;
+  position: absolute;
+  background-image: url('images/loading.gif');
+  padding: 0;
+  margin: 6px 0 0 -8px;
+  display: inline-block;
+  height:20px !important;
+  width:20px !important;
+  display: none;
+}
+.slide-out-div{
+padding:20px 10px 20px 20px;
+background-color:#F5F5F5;
+position:relative;
+z-index:999;
+position: fixed;
+border:2px solid #13c047;
+top: 150px; 
+left: -334px;
+}
+.handle{
+background-image: url(images/sms-icon.png);
+ width: 50px;
+ height: 50px;
+ display: block; 
+ text-indent: -99999px;
+ outline: none;
+ position: absolute;
+ top: -2px;
+ right: -50px; 
+ background-position: initial initial;
+ background-repeat: no-repeat no-repeat;
+ cursor:pointer;
+ }

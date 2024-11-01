@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-simple-ajax-contact-form\n"
+"POT-Creation-Date: 2014-04-09 09:37+0330\n"
+"PO-Revision-Date: 2014-04-09 10:00+0330\n"
+"Last-Translator: \n"
+"Language-Team: www.picor.ir <admin@picor.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\press\\wp-content\\plugins\\wordpress-"
+"simple-ajax-contact-form-version2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\press\\wp-content\\plugins"
+"\\wordpress-simple-ajax-contact-form-version2\n"
+
+#: C:\xampp\htdocs\press\wp-content\plugins\wordpress-simple-ajax-contact-form-version2/index.php:42
+msgid "Name:"
+msgstr "نام:"
+
+#: C:\xampp\htdocs\press\wp-content\plugins\wordpress-simple-ajax-contact-form-version2/index.php:43
+msgid "Your Name:"
+msgstr "نام خود را وارد کنید"
+
+#: C:\xampp\htdocs\press\wp-content\plugins\wordpress-simple-ajax-contact-form-version2/index.php:49
+msgid "Email:"
+msgstr "ایمیل:"
+
+#: C:\xampp\htdocs\press\wp-content\plugins\wordpress-simple-ajax-contact-form-version2/index.php:50
+msgid "Your Email:"
+msgstr "ایمیل خود را وارد کنید"
+
+#: C:\xampp\htdocs\press\wp-content\plugins\wordpress-simple-ajax-contact-form-version2/index.php:55
+msgid "Message:"
+msgstr ""
+"پیام : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+"&nbsp;&nbsp;"
+
+#: C:\xampp\htdocs\press\wp-content\plugins\wordpress-simple-ajax-contact-form-version2/index.php:56
+msgid "Write Your Message"
+msgstr "پیام خود را بنویسید"
+
+#: C:\xampp\htdocs\press\wp-content\plugins\wordpress-simple-ajax-contact-form-version2/index.php:60
+#: C:\xampp\htdocs\press\wp-content\plugins\wordpress-simple-ajax-contact-form-version2/index.php:105
+msgid "Send"
+msgstr "ارسال"
+
+#: C:\xampp\htdocs\press\wp-content\plugins\wordpress-simple-ajax-contact-form-version2/index.php:88
+msgid "Name"
+msgstr "نام:"
+
+#: C:\xampp\htdocs\press\wp-content\plugins\wordpress-simple-ajax-contact-form-version2/index.php:94
+msgid "Email"
+msgstr "ایمیل:"
+
+#: C:\xampp\htdocs\press\wp-content\plugins\wordpress-simple-ajax-contact-form-version2/index.php:100
+msgid "Message"
+msgstr ""
+"پیام : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+"&nbsp;"
+
+#: C:\xampp\htdocs\press\wp-content\plugins\wordpress-simple-ajax-contact-form-version2/index.php:128
+msgid "Your message sent successfully."
+msgstr "با موفقیت ارسال شد"
+
+#: C:\xampp\htdocs\press\wp-content\plugins\wordpress-simple-ajax-contact-form-version2/index.php:130
+msgid "Sorry! Please try again. "
+msgstr "لطفا مجددا تلاش نمایید"
